@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*header start*/
+
+.header {
+    background-color: #dd9153;
+    font-family: 'Dosis', sans-serif;
+}
+
+.manu1 {
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 100px;
+}
+
+.manu1 {}
+
+.manu1 ul {}
+
+.manu1 ul li {}
+
+.manu1 ul li a {
+    color: white !important;
+}
+
+.user {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.find {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.manu1 ul li a :hover {}
